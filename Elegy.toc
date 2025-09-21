@@ -1,0 +1,11 @@
+## Interface: 11507
+## Title: Elegy - of the fallen |cff8080ffv0.01|r
+## Notes: A poetic tribute to fallen guild members - alerts when players die
+## Author: Adelhotlz
+## Version: 0.01
+## SavedVariables: ElegyDB
+## X-License: GNU GPL3
+## X-Category: Leveling,Guild
+
+embeds.xml
+Elegy.lua
