@@ -28,6 +28,10 @@
         "ColorPickerFrame",
         "OKAY",
         "NOT_BOUND",
-        "GUILD"
+        "GUILD",
+        "ChatEdit_SendText",
+        "ChatFrame1EditBox",
+        "StaticPopup_Show",
+        "StaticPopupDialogs"
     ]
 }
